@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DalFacade/DalFacade.csproj" Id="b148ac70-3033-480b-ba2b-ee66d3b9d817" />
+  <Project Path="DalList/DalList.csproj" Id="b27d5cc1-f082-4ef4-a5c2-bebb9a398f82" />
+  <Project Path="DalTest/DalTest.csproj" />
+</Solution>
